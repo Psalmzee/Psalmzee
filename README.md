@@ -17,3 +17,5 @@ I'm a Software Engineer, creative and resilient, one who is passionate about all
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=Psalmzee&show_icons=true&include_all_commits=true&hide_border=true" alt="Samson's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Psalmzee&langs_count=8&layout=compact&hide_border=true" alt="Samson's GitHub stats" /> |
 | ------------- | ------------- |
+
+<img src="https://gpvc.arturio.dev/Psalmzee" alt="profile views">
