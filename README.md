@@ -12,7 +12,7 @@ I'm a Software Engineer, creative and resilient, one who is passionate about all
 - 🌱 I’m currently learning JavaScript, TypeScript, Reactjs, Nodejs, and Python.
 - 😊 I’m open to contributing to open source projects, engaging in hackathons, Internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer (Frontend/Backend Engineering) (Internships/Junior/Mid level roles).
-- 📫 You can [view my resume](#) and contact me via email at engrsamsonokeji@gmail.com
+- 📫 You can [view my resume](https://drive.google.com/file/d/1mLQRQnT5OWpdwvuJnWRHFGctxzTqjY8-/view?usp=sharing) and contact me via email at engrsamsonokeji@gmail.com
 
 ---
 
