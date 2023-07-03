@@ -7,10 +7,10 @@ I'm a Software Engineer, creative and resilient, one who is passionate about all
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
-- 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 I’m currently learning JavaScript, TypeScript, Reactjs, Nodejs, and Python.
-- 😊 I’m open to contributing to open source projects, engaging in hackathons, Internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer (Frontend/Backend Engineering) (Internships/Junior/Mid level roles).
+- 💡 Fun fact: I'm a recent graduate of AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
+- 🌱 I’m currently mastering JavaScript, TypeScript, Reactjs, Nodejs, and Python.
+- 😊 I’m open to contributing to open source projects, engaging in hackathons,entry-level/mid-level opportunities.
+- 💼 Job interests: Software Engineer/DevOps (Azure/AWS, Frontend/Backend Engineering) (Junior/Mid level roles).
 - 📫 You can [view my resume](https://drive.google.com/file/d/1mLQRQnT5OWpdwvuJnWRHFGctxzTqjY8-/view?usp=sharing) and contact me via email at engrsamsonokeji@gmail.com
 
 ---
